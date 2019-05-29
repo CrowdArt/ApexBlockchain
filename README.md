@@ -18,7 +18,6 @@
 * Everyone has access to a copy of the ledger from the database.
 
 # Architecture
-
 ## Data Model
 Each block and its transaction will be stored in a custom object called Ledger_Entry__c.  The name field is defined as Auto Number field. 
 
