@@ -1,0 +1,5 @@
+trigger OnInsertLedgerEntry on Ledger_Entry__c (before insert) {
+
+    LedgerSupport ls = new LedgerSupport(trigger.new);
+    ls.processBlockInsertions();
+}
