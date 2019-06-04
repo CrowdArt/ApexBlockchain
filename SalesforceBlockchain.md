@@ -26,3 +26,7 @@ When setting up a blockchain, you have to do the following:
 6. On-board and incentivize.
 
 Salesforce Blockchain lets you create blockchain networks, data, and apps 
+
+## Case Studies
+* [What Blockchain Could Mean For Structured Finance](https://www.spglobal.com/en/research-insights/articles/what-blockchain-could-mean-for-structured-finance)
+* [Bpnd Record Keeping](https://sawtooth.hyperledger.org/examples/bond.html)
