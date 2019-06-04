@@ -30,3 +30,4 @@ Salesforce Blockchain lets you create blockchain networks, data, and apps
 ## Case Studies
 * [What Blockchain Could Mean For Structured Finance](https://www.spglobal.com/en/research-insights/articles/what-blockchain-could-mean-for-structured-finance)
 * [Bpnd Record Keeping](https://sawtooth.hyperledger.org/examples/bond.html)
+* [Sawtooth Lake](https://sawtooth.hyperledger.org/docs/core/releases/0.7/bond_family_guide/users_guide/ui_reference.html)
