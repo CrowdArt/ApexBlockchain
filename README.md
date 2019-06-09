@@ -42,3 +42,8 @@ Next, we validate the field list.  Every field is checked to see if it is a vali
 
 ## Adding Block to the Blockchain (Setting and validating the entire block)
 The LedgerSupport class manages individual ledger entree records; handling both insertion and validation of the blockchain fields.  As with the LedgerTransaction class, it has a single constructor that accepts and stores a list of ledger entry records.  These may be new records being inserted or existing records that can be validated.  
+
+##
+* [Gemini API](https://docs.gemini.com/rest-api/#introduction)
+* [CoinGecko](https://www.coingecko.com/en)
+* [Etherscan API](https://etherscan.io/apis)
