@@ -47,3 +47,4 @@ The LedgerSupport class manages individual ledger entree records; handling both 
 * [Gemini API](https://docs.gemini.com/rest-api/#introduction)
 * [CoinGecko](https://www.coingecko.com/en)
 * [Etherscan API](https://etherscan.io/apis)
+* https://developer.salesforce.com/forums/?id=9060G000000MSBLQA4
