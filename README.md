@@ -48,3 +48,4 @@ The LedgerSupport class manages individual ledger entree records; handling both 
 * [CoinGecko](https://www.coingecko.com/en)
 * [Etherscan API](https://etherscan.io/apis)
 * https://developer.salesforce.com/forums/?id=9060G000000MSBLQA4
+* https://developer.salesforce.com/forums/?id=906F0000000D9AUIA0
